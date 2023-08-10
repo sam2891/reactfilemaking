@@ -13,7 +13,7 @@ function App() {
           <li>About</li>
         </ul>
       }
-      <p></p>
+      <p>My name is Samuel i am an Full stack Developer .....</p>
     </div>
   );
 }
